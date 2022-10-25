@@ -1,8 +1,7 @@
 import { ApiKeyManager } from "@esri/arcgis-rest-request";
 import { geocode, suggest } from "@esri/arcgis-rest-geocoding";
 
-const API_KEY =
-  "AAPKfaa13d83cfb045438a085d3c22938d28w8BG1Z8Xur1g0lNO0NwajbSsWctsGUgImTu83AtfufF427ElikU1k5pJLSbT4odU";
+const API_KEY = "YOUR_API_KEY";
 const authentication = new ApiKeyManager({ key: API_KEY });
 
 let sugg = [];
