@@ -4,6 +4,7 @@
 A simple address form that uses ArcGIS Rest JS to perform address validation, suggestions, and auto-completion.
 
 ## Live Demo Clip
+![Demo2_Live_Clip](https://user-images.githubusercontent.com/112517097/203167904-2362f09a-38ec-4499-8541-785861b76974.gif)
 
 ## Live Demo
 Test out the demo [here](https://arcgis-restjs-address-form.netlify.app/).
